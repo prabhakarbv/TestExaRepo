@@ -6,5 +6,12 @@ This is new file
   5. create practioner
   6. create contract
   7. save contract
+  updated in master for applet file
+  
+  
   
   commit the code .... :)
+  
+  
+  
+  it is done
