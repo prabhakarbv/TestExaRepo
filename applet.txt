@@ -7,7 +7,8 @@ This is new file
   6. create contract
   7. save contract
   
-  deleted 2 lines from the file
+  new branch updates
+   it is done .. ocmmiting code
 
     
   commit the code .... :)
