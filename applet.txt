@@ -2,6 +2,7 @@ This is new file
   1. create BE
   2. Save BE
   3. create Provider
-  
+  4. save Provider
+  5. create practioner
   
   commit the code .... :)
