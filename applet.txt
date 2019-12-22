@@ -7,8 +7,9 @@ This is new file
   6. create contract
   7. save contract
   updated in new branch ..
-  
-  
+  updated in master for applet file
+
+    
   commit the code .... :)
-  
-  it is done.
+ 
+  it is done
