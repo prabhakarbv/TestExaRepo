@@ -4,5 +4,7 @@ This is new file
   3. create Provider
   4. save Provider
   5. create practioner
+  6. create contract
+  7. save contract
   
   commit the code .... :)
